@@ -1,0 +1,37 @@
+h1 {
+  margin: 7px;
+}
+
+form {
+  width: 550px;
+}
+
+input {
+  width: 500px;
+  height: 30px;
+  margin: 7px;
+  padding: 3px;
+  border: 1px solid black;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  width: 220px;
+  height: 40px;
+  margin: 7px;
+  border: none;
+}
+
+.name {
+  width: 236px;
+}
+
+.user-name {
+  display: block;
+  width: 500px;
+}
+
+.password {
+  width: 236px;
+}

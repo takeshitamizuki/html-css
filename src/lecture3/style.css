@@ -1,0 +1,19 @@
+td {
+  width: 60px;
+  height: 20px;
+  text-align: left;
+  padding: 5px 10px;
+  font-size: 20px;
+}
+
+.company-profile {
+  width: 80%;
+  border-collapse: collapse;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.company-profile-header {
+  background-color: black;
+  color: white;
+}

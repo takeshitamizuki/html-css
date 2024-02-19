@@ -1,0 +1,73 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.left-container {
+  width: 50%;
+  background-color: #00b2ff;
+  position: relative;
+}
+
+.desc-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.desc {
+  color: white;
+  text-align: center;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.right-container {
+  width: 50%;
+  position: relative;
+}
+
+.form-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.top-input {
+  width: 220px;
+  height: 30px;
+  padding: 5px;
+}
+
+.top-login-button {
+  border: 1px solid #00b2ff;
+  background-color: white;
+  color: #00b2ff;
+  width: 80px;
+  height: 44px;
+}
+
+.account-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.account-create-button {
+  background-color: #00b2ff;
+  color: white;
+  border: 1px solid #00b2ff;
+  width: 300px;
+  height: 30px;
+  margin: 10px 0px;
+}
+
+.bottom-login-button {
+  background-color: white;
+  color: #00b2ff;
+  border: 1px solid #00b2ff;
+  width: 300px;
+  height: 30px;
+  margin: 10px 0px;
+}
